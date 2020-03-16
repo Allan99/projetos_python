@@ -1,4 +1,4 @@
-from dataclasses import dataclass
+#Projeto ainda não terminado 
 
 def ip_binario(ip:str)->str:
     split_ip = ip.replace('.', ' ').split()
